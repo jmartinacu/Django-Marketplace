@@ -1,6 +1,6 @@
 notas.txt
 puddle/.vscode
-puddle/db.sqlite3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
